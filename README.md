@@ -41,3 +41,5 @@ click_unlock_now / auto_unlock_chapter - користувач розблокув
 главу книги, витративши коїни (може бути тільки один з цих
 івентів: auto_unlock_chapter якщо увімкнено авторазблокування,
 інакше - click_unlock_now).
+
+### Розв'язок задачі: https://hurricane-syringa-927.notion.site/3-df4671dd09f643c3a8feeacf20e070c8?pvs=74
